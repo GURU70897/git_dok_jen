@@ -1,0 +1,22 @@
+{
+  "name": "guru",
+  "version": "1.0.0",
+  "description": "gurus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GURU70897/git_dok_jen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GURU70897/git_dok_jen/issues"
+  },
+  "homepage": "https://github.com/GURU70897/git_dok_jen#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
